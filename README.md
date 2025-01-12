@@ -1,1 +1,1 @@
-# makjumini
+# makjum
